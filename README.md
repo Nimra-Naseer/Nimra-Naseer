@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIMRA NASEER</h1>
 
 <h3 align="center">I am a Computer Science student</h3>
-
-# 👋 Hi, I'm Nimra Naseer 🌸
  
 📚 Currently learning **Web Development**  
 🚀 Passionate about building clean & responsive websites  
