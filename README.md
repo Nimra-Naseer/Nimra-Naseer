@@ -35,7 +35,7 @@
   </a>
 
   <a href="https://github.com/Nimra-Naseer" target="_blank">
-    <img src="./images/gmail.png" width="40"/>
+    <img src="./images/github.png" width="40"/>
   </a>
 </p>
 
