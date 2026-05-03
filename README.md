@@ -4,11 +4,11 @@
  
 📚 Currently learning **Web Development**  
 🚀 Passionate about building clean & responsive websites  
-✨ Aspiring Full-End Developer 💻🚀
+✨ Aspiring Full-stack Developer 💻🚀
 ---
 
 ## 🌱 Currently Learning 
-- 🎨 CSS  
+- 🐍Python
 - ⚡ JavaScript  
 
 ---
