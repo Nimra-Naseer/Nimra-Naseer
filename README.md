@@ -1,44 +1,100 @@
-<h1 align="center">Hi 👋, I'm NIMRA NASEER</h1>
+<h1 align="center">Hi 👋, I'm Nimra Naseer</h1>
 
-<h3 align="center">I am a Computer Science student</h3>
- 
-📚 Currently learning **Web Development**  
-🚀 Passionate about building clean & responsive websites  
-✨ Aspiring Full-stack Developer 💻🚀
+<h3 align="center">
+  Computer Science Student | Basic Web Developer | Future Cybersecurity Expert
+</h3>
+
+<p align="center">
+  Passionate about building clean, responsive, and modern web applications 🚀
+</p>
+
 ---
 
-## 🌱 Currently Learning 
-- 🐍Python
-- ⚡ JavaScript  
+## 👩‍💻 About Me
+
+- 📚 Currently learning **Advanced Web Development**
+- ⚡ Skilled in **HTML, CSS, JavaScript & Tailwind CSS**
+- 🐍 Exploring **Python**
+- 💻 Interested in **Full-Stack Development**
+- 🔐 Aspiring **Cybersecurity Expert**
+- ✨ Love creating responsive and user-friendly websites
 
 ---
 
 ## 🛠️ Languages & Tools
-<p>
-  <img src="./images/HTML.png" alt="HTML" height="30" width="40"/>
-  <img src="./images/css.png" alt="CSS" height="30" width="40"/>
-  <img src="./images/js.png" alt="JavaScript" height="30" width="40"/>
+
+<p align="left">
+
+  <img src="./images/HTML.png"
+       alt="HTML"
+       width="50"
+       height="50"
+       style="border-radius:12px; margin-right:12px;" />
+
+  <img src="./images/CSS.png"
+       alt="CSS"
+       width="50"
+       height="50"
+       style="border-radius:12px; margin-right:12px;" />
+
+  <img src="./images/JavaScript.png"
+       alt="JavaScript"
+       width="50"
+       height="50"
+       style="border-radius:12px; margin-right:12px;" />
+
+  <img src="./images/TailwindCSS.png"
+       alt="Tailwind CSS"
+       width="50"
+       height="50"
+       style="border-radius:12px; margin-right:12px;" />
+
+  <img src="./images/Python.png"
+       alt="Python"
+       width="50"
+       height="50"
+       style="border-radius:12px;" />
+
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/nimra-naseer-9609aa399/" target="_blank">
-    <img src="./images/linkedin.jpeg" width="40"/>
+## 🌐 Connect With Me
+
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/nimra-naseer-juggling-tasks-with-ease" target="_blank">
+    <img src="./images/linkedin.jpeg"
+         width="45"
+         style="border-radius:12px; margin-right:10px;" />
   </a>
 
   <a href="mailto:nimranaseer313@gmail.com">
-    <img src="./images/gmail.png" width="40"/>
+    <img src="./images/gmail.png"
+         width="45"
+         style="border-radius:12px; margin-right:10px;" />
   </a>
 
   <a href="https://github.com/Nimra-Naseer" target="_blank">
-    <img src="./images/github.png" width="40"/>
+    <img src="./images/github.png"
+         width="45"
+         style="border-radius:12px;" />
   </a>
+
 </p>
 
 ---
 
-✨ *Thanks for visiting my profile!* ✨  
-💖 *Happy Coding!*
+## ✨ Goals
 
+- 🚀 Become a Professional Full-Stack Developer
+- 🔐 Learn Ethical Hacking & Cybersecurity
+- 🌍 Build impactful real-world projects
+- 📈 Continuously improve coding skills
+
+---
+
+<p align="center">
+  ✨ <b>Thanks for visiting my profile!</b> ✨ <br><br>
+  💖 Happy Coding! 💖
+</p>
