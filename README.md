@@ -23,37 +23,37 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
 
   <img src="./images/HTML.png"
        alt="HTML"
        width="50"
        height="50"
-       style="border-radius:14px; margin-right:14px;"/>
+       style="border-radius:14px; margin:6px;" />
 
   <img src="./images/CSS.png"
        alt="CSS"
        width="50"
        height="50"
-       style="border-radius:14px; margin-right:14px;"/>
+       style="border-radius:14px; margin:6px;" />
 
   <img src="./images/JavaScript.png"
        alt="JavaScript"
        width="50"
        height="50"
-       style="border-radius:14px; margin-right:14px;"/>
+       style="border-radius:14px; margin:6px;" />
 
   <img src="./images/TailwindCSS.png"
        alt="Tailwind CSS"
        width="50"
        height="50"
-       style="border-radius:14px; margin-right:14px;"/>
+       style="border-radius:14px; margin:6px;" />
 
   <img src="./images/Python.png"
        alt="Python"
        width="50"
        height="50"
-       style="border-radius:14px;"/>
+       style="border-radius:14px; margin:6px;" />
 
 </p>
 
