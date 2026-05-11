@@ -21,19 +21,35 @@
 
 ---
 
-## 🛠️ Languages & Tools
+V## 🛠️ Languages & Tools
 
 <p align="center">
 
-<img src="./images/HTML.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
+<table align="center">
+<tr>
 
-<img src="./images/CSS.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
+  <td align="center">
+    <img src="./images/HTML.png" width="55" style="border-radius:14px;" />
+  </td>
 
-<img src="./images/JavaScript.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
+  <td align="center">
+    <img src="./images/CSS.png" width="55" style="border-radius:14px;" />
+  </td>
 
-<img src="./images/TailwindCSS.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
+  <td align="center">
+    <img src="./images/JavaScript.png" width="55" style="border-radius:14px;" />
+  </td>
 
-<img src="./images/Python.png" width="55" style="border-radius:14px;" />
+  <td align="center">
+    <img src="./images/TailwindCSS.png" width="55" style="border-radius:14px;" />
+  </td>
+
+  <td align="center">
+    <img src="./images/Python.png" width="55" style="border-radius:14px;" />
+  </td>
+
+</tr>
+</table>
 
 </p>
 
