@@ -57,27 +57,35 @@ V## 🛠️ Languages & Tools
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<table align="center">
+<tr>
 
-  <a href="https://www.linkedin.com/in/nimra-naseer-juggling-tasks-with-ease" target="_blank">
-    <img src="./images/LinkedIn.jpeg"
-         width="45"
-         style="border-radius:12px; margin-right:10px;" />
-  </a>
+  <td align="center">
+    <a href="https://www.linkedin.com/in/nimra-naseer-juggling-tasks-with-ease" target="_blank">
+      <img src="./images/LinkedIn.jpeg"
+           width="45"
+           style="border-radius:12px;" />
+    </a>
+  </td>
 
-  <a href="mailto:nimranaseer313@gmail.com">
-    <img src="./images/Gmail.png"
-         width="45"
-         style="border-radius:12px; margin-right:10px;" />
-  </a>
+  <td align="center">
+    <a href="mailto:nimranaseer313@gmail.com">
+      <img src="./images/Gmail.png"
+           width="45"
+           style="border-radius:12px;" />
+    </a>
+  </td>
 
-  <a href="https://github.com/Nimra-Naseer" target="_blank">
-    <img src="./images/GitHub.png"
-         width="45"
-         style="border-radius:12px;" />
-  </a>
+  <td align="center">
+    <a href="https://github.com/Nimra-Naseer" target="_blank">
+      <img src="./images/GitHub.png"
+           width="45"
+           style="border-radius:12px;" />
+    </a>
+  </td>
 
-</p>
+</tr>
+</table>
 
 ---
 
