@@ -29,31 +29,31 @@
        alt="HTML"
        width="50"
        height="50"
-       style="border-radius:12px; margin-right:12px;" />
+       style="border-radius:14px; margin-right:14px;"/>
 
   <img src="./images/CSS.png"
        alt="CSS"
        width="50"
        height="50"
-       style="border-radius:12px; margin-right:12px;" />
+       style="border-radius:14px; margin-right:14px;"/>
 
   <img src="./images/JavaScript.png"
        alt="JavaScript"
        width="50"
        height="50"
-       style="border-radius:12px; margin-right:12px;" />
+       style="border-radius:14px; margin-right:14px;"/>
 
   <img src="./images/TailwindCSS.png"
        alt="Tailwind CSS"
        width="50"
        height="50"
-       style="border-radius:12px; margin-right:12px;" />
+       style="border-radius:14px; margin-right:14px;"/>
 
   <img src="./images/Python.png"
        alt="Python"
        width="50"
        height="50"
-       style="border-radius:12px;" />
+       style="border-radius:14px;"/>
 
 </p>
 
@@ -64,19 +64,19 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/nimra-naseer-juggling-tasks-with-ease" target="_blank">
-    <img src="./images/linkedin.jpeg"
+    <img src="./images/LinkedIn.jpeg"
          width="45"
          style="border-radius:12px; margin-right:10px;" />
   </a>
 
   <a href="mailto:nimranaseer313@gmail.com">
-    <img src="./images/gmail.png"
+    <img src="./images/Gmail.png"
          width="45"
          style="border-radius:12px; margin-right:10px;" />
   </a>
 
   <a href="https://github.com/Nimra-Naseer" target="_blank">
-    <img src="./images/github.png"
+    <img src="./images/GitHub.png"
          width="45"
          style="border-radius:12px;" />
   </a>
