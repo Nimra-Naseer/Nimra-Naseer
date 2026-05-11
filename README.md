@@ -25,35 +25,15 @@
 
 <p align="center">
 
-  <img src="./images/HTML.png"
-       alt="HTML"
-       width="50"
-       height="50"
-       style="border-radius:14px; margin:6px;" />
+<img src="./images/HTML.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
 
-  <img src="./images/CSS.png"
-       alt="CSS"
-       width="50"
-       height="50"
-       style="border-radius:14px; margin:6px;" />
+<img src="./images/CSS.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
 
-  <img src="./images/JavaScript.png"
-       alt="JavaScript"
-       width="50"
-       height="50"
-       style="border-radius:14px; margin:6px;" />
+<img src="./images/JavaScript.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
 
-  <img src="./images/TailwindCSS.png"
-       alt="Tailwind CSS"
-       width="50"
-       height="50"
-       style="border-radius:14px; margin:6px;" />
+<img src="./images/TailwindCSS.png" width="55" style="border-radius:14px;" />&nbsp;&nbsp;&nbsp;
 
-  <img src="./images/Python.png"
-       alt="Python"
-       width="50"
-       height="50"
-       style="border-radius:14px; margin:6px;" />
+<img src="./images/Python.png" width="55" style="border-radius:14px;" />
 
 </p>
 
