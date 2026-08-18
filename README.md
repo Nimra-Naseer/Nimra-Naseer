@@ -8,7 +8,7 @@
   Passionate about building clean, responsive, and modern web applications 🚀
 </p>
 
-<p align="center"> <a align="center" href="https://www.codewars.com/users/Nimra%20Naseer/"><img align="center" src="https://www.codewars.com/users/Nimra%20Naseer/badges/small" alt="Shehzad codewars profile" /></a></p>
+<p align="center"> <a align="center" href="https://www.codewars.com/users/Nimra%20Naseer/"><img align="center" src="https://www.codewars.com/users/Nimra%20Naseer/badges/small" alt="Nimra codewars profile" /></a></p>
 
 ---
 
